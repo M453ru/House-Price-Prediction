@@ -1,6 +1,6 @@
-🫣 **Yes, this is messy.** am I proud of it? Absolutely. But it's where I started.
+🫣 **Yes, this is messy.** am I proud of it? Yeah, absolutely. It's where I started, I call it humble beginnings.
 
-This was my first stab at ML. It kinda works. It's also a disaster in places. I'm keeping it exactly like this so I (and you) can see how much better Project 2 is.
+This was my first jab at ML as a lone ranger. Hear me out, it kinda works. It's also a disaster in places. I'm keeping it exactly like this so I (and you) can see how much better Project 2 is.
 
 ## The good
 - It runs, mostly.
